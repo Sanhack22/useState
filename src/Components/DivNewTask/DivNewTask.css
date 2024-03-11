@@ -1,0 +1,12 @@
+.DivNewTask{
+    margin-top: 2rem;
+    width: 20%;
+    height: 13rem;
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    border: 4px double  white;
+    
+
+    
+}
